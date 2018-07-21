@@ -1,0 +1,76 @@
+#site_name{
+	font-weight: bold;
+	font-size:70px;
+	color:black;
+	font-family:Comic Sans MS;
+	margin-left:10px;
+	padding-top:25px;
+	margin-top:10px;
+	float:left;
+}
+
+*{
+	list-style-type:none;
+}
+
+.div_main{
+	background-color:#c6c0b4;
+	height:150px;
+	background-image:url("./images/backtheme.png");
+	
+}
+
+.navbar1{
+	float:left;
+	padding:30px 170px;
+}
+
+.navbar1 li{
+	color:#11455b;
+	font-weight:bold;
+	font-size:25px;
+	float:left;
+	padding:30px;
+}
+
+.li{
+	background-color:#cdcfd3;
+	border-radius:7px;
+	border:ridge #595753;
+}
+
+a{
+	color:#595753;
+	text-decoration:none;
+}
+a:hover{
+	color:black;
+	text-decoration:underline;
+}
+a:active{
+	color:#0c4eb7;
+}
+
+.container{
+	width:1100px;
+	height:750px;
+	background-image:url("./images/blackboard.jpg");
+	background-repeat:no-repeat;
+	margin-left:220px;
+}
+
+section p{
+	font-family:Lucida Handwriting;
+	color:#edf2f2;
+	font-size:40px;
+	text-align:center;
+	font-weight:bold;
+	padding:50px 30px;
+}
+
+.bottom{
+	background-color:#595753;
+	height:200px;
+	font-size:20px;
+	background-image:linear-gradient(to top,#595753,#cdcfd3);
+}

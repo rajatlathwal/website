@@ -1,0 +1,61 @@
+.empty{
+	clear:both;
+	height:0px;
+}
+
+.homecontainer{
+	background-image:url("./images/homepage_theme.jpg");
+	background-repeat:no-repeat;
+	width:1400px;
+	height:500px;
+	background-position:center;
+	margin-left:50px;
+}
+
+.slides{
+	width:700px;
+	height:300px;
+	padding-top:65px;
+	margin-left:325px;
+	margin-right:300px;
+}
+
+.course1{
+	width:500px;
+	height:265px;
+	background-color:#4adbbe;
+	background-repeat:no-repeat;
+	border-radius:45px;
+	float:left;
+	margin:50px 100px;
+}
+
+.course2{
+	width:500px;
+	height:250px;
+	background-color:#4adbbe;
+	background-repeat:no-repeat;
+	float:left;
+	margin:50px 100px;
+	border-radius:45px;
+}
+
+.course3{
+	width:500px;
+	height:262px;
+	background-color:#4adbbe;
+	background-repeat:no-repeat;
+	border-radius:45px;
+	float:left;
+	margin:50px 100px;
+}
+
+.course4{
+	width:500px;
+	height:267px;
+	background-color:#4adbbe;
+	background-repeat:no-repeat;
+	float:left;
+	margin:50px 100px;
+	border-radius:45px;
+}

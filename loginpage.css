@@ -1,0 +1,21 @@
+.mainloginpage div{
+	margin-top:5px;
+	margin-left:60px;
+	background-image:url("./images/laptopjpg.jpg");
+	<background-position:left;
+	background-repeat:repeat-x;
+	width:1400px;
+	height:800px;
+}
+
+.mainloginpage form{
+	padding-top:250px;
+	font-size:23px;
+	font-weight:bold;
+}
+
+.mainloginpage p{
+	font-size:14px;
+	color:black;
+	font-family:Comic Sans MS;
+}
